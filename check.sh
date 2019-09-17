@@ -1,5 +1,5 @@
 #!/bin/bash
-#version 0.2
+#version 0.0.2
 
 if [ -d "/root/Files" ]
 	then
