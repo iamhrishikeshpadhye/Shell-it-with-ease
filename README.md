@@ -8,3 +8,8 @@ This script will check for, install if missing and run if not running, a [_simpl
 **2.mongostart.sh:**
 <br>
 This script will start your MongoDB without you requiring to traverse to it's directory.
+<br>
+**3.whoisalive.sh:**
+<br>
+This script will 'ping' every address in the described subnet to check which hots are responding or alive.
+<br>
