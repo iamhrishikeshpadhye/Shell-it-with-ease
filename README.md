@@ -1,6 +1,14 @@
 # Shell-it-with-ease
  _Collection of linux shell scripts for distributed functionalities._
 
+## How to use these scripts?
+```
+sudo chmod 777 <name of the file>
+./<name of the file>
+```
+
+###
+
 **1.check.sh:**
 <br>
 This script will check for, install if missing and run if not running, a [_simple-key-logger_](https://github.com/gsingh93/simple-key-logger).
