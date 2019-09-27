@@ -21,3 +21,7 @@ This script will start your MongoDB without you requiring to traverse to it's di
 <br>
 This script will 'ping' every address in the described subnet to check which hots are responding or alive.
 <br>
+**4.GUIwhois.sh**
+<br>
+This script is GUI form of 'whois' utility in Linux.
+<br>
