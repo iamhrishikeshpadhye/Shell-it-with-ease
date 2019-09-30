@@ -9,19 +9,22 @@ sudo chmod 777 <name of the file>
 
 ###
 
-**1.check.sh:**
+[**1.check.sh:**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/1.check.sh)
 <br>
 This script will check for, install if missing and run if not running, a [_simple-key-logger_](https://github.com/gsingh93/simple-key-logger).
 <br>
-**2.mongostart.sh:**
+[**2.mongostart.sh:**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/2.mongostart.sh)
 <br>
 This script will start your MongoDB without you requiring to traverse to it's directory.
 <br>
-**3.whoisalive.sh:**
+[**3.whoisalive.sh:**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/3.whoisalive.sh)
 <br>
 This script will 'ping' every address in the described subnet to check which hots are responding or alive.
 <br>
-**4.GUIwhois.sh**
+[**4.GUIwhois.sh**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/4.GUIwhois.sh)
 <br>
 This script is GUI form of 'whois' utility in Linux.
 <br>
+[**5.isprime.sh**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/5.isprime.sh)
+<br>
+Checks if integer in argument one is a prime number or not.
