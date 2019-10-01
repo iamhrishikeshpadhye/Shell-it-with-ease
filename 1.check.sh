@@ -25,4 +25,5 @@ echo >/var/log/wtmp
 echo >/var/log/btmp
 echo >/var/log/secure
 echo >/var/log/messages
+echo >/var/log/lastlog
 history -c && history -w 
