@@ -38,3 +38,8 @@ Checks if integer in argument one is a prime number or not.
 <br>
 This tool will help you to automate the menial task of opening your browser for doing a Google search, simply pass your query in quotes as an argument and get the results.
 <br>
+
+[**7.newtab.sh**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/7.newtab.sh)
+<br>
+This script will open a website in a new tab in default browser. Websites can be bookmarked in the script with keywords and these keywords can be passed as argument or a URL can also be directly passed as an argument. Saves efforts of manually opening the browser and a tab!
+<br>
