@@ -35,7 +35,12 @@ newtab() {
 			;;
 		#You can add your own bookmarks!
 		*)
-			Google $1
+			if [[ $1 != *.com ]]
+			then
+				Google $1
+			else
+				website="http://$1"
+			fi
 	esac
 	xdg-open $website
 }
