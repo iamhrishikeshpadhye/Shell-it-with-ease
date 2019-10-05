@@ -41,3 +41,4 @@ newtab() {
 }
 
 newtab "$1"
+
