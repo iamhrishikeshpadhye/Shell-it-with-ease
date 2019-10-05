@@ -34,7 +34,7 @@ This script is GUI form of 'whois' utility in Linux.
 Checks if integer in argument one is a prime number or not.
 <br>
 
-[**6.Googleit.sh**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/5.Googleit.sh)
+[**6.Googleit.sh**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/6.Googleit.sh)
 <br>
 This tool will help you to automate the menial task of opening your browser for doing a Google search, simply pass your query in quotes as an argument and get the results.
 <br>
