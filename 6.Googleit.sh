@@ -1,3 +1,5 @@
+#!/bin/bash
+
 Google() {
     search=""
     echo "Opening Google search for : $@"
