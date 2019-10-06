@@ -43,3 +43,8 @@ This tool will help you to automate the menial task of opening your browser for 
 <br>
 This script will open a website in a new tab in default browser. Websites can be bookmarked in the script with keywords and these keywords can be passed as argument or a URL can also be directly passed as an argument. Saves efforts of manually opening the browser and a tab!
 <br>
+
+[**8.yourfavcmds.sh**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/8.yourfavcmds.sh)
+<br>
+Ever wondered your most frequently used commands in your terminal? This one liner will show you your top 5 most used commands in the terminal.(you can obviously change the number!)
+<br>
