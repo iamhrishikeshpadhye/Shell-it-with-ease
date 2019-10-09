@@ -53,3 +53,18 @@ Ever wondered your most frequently used commands in your terminal? This one line
 <br>
 Get Github search results in your browser right from your terminal!
 <br>
+
+### Author
+
+ **Hrishikesh Padhye**
+
+* Twitter: [@Hrishi_says_so](https://twitter.com/Hrishi_says_so)
+* Github: [iamhrishikesh](https://github.com/Hrishikesh-Padhye)
+
+#### Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/issues) page.
+
+#### Support this project :)
+
+Give a ⭐️ if you like this!
