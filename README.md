@@ -11,7 +11,7 @@ sudo chmod 777 <name of the file>
 
 [**1.check.sh:**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/1.check.sh)
 <br>
-This script will check for, install if missing and run if not running, a [_simple-key-logger_](https://github.com/gsingh93/simple-key-logger).
+This script will check for, install if missing and run if not running, a [_simple-key-logger_](https://github.com/gsingh93/simple-key-logger) with some camouflage!
 <br>
 
 [**2.mongostart.sh:**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/2.mongostart.sh)
