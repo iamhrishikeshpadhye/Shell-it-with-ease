@@ -48,3 +48,8 @@ This script will open a website in a new tab in default browser. Websites can be
 <br>
 Ever wondered your most frequently used commands in your terminal? This one liner will show you your top 5 most used commands in the terminal.(you can obviously change the number!)
 <br>
+
+[**9.githubresults.sh**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/9.githubresults.sh)
+<br>
+Get Github search results in your browser right from your terminal!
+<br>
