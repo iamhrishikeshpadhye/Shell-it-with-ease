@@ -64,7 +64,7 @@ This tool will generate random string as a password of length provided as argume
  **Hrishikesh Padhye**
 
 * Twitter: [@Hrishi_says_so](https://twitter.com/Hrishi_says_so)
-* Github: [iamhrishikesh](https://github.com/Hrishikesh-Padhye)
+* Github: [iamhrishikesh](https://github.com/iamhrishikeshpadhye)
 
 #### Contributing
 
