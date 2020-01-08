@@ -54,6 +54,11 @@ Ever wondered your most frequently used commands in your terminal? This one line
 Get Github search results in your browser right from your terminal!
 <br>
 
+[**10.ranword.sh**](https://github.com/iamhrishikeshpadhye/Shell-it-with-ease/blob/master/10.ranword.sh)
+<br>
+This tool will generate random string as a password of length provided as argument.
+<br>
+
 ### Author
 
  **Hrishikesh Padhye**
