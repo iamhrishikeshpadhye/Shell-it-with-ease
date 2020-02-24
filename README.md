@@ -34,7 +34,7 @@ This script is GUI form of 'whois' utility in Linux.
 Checks if integer in argument one is a prime number or not.
 <br>
 
-[**6.SearchViaTerminal.sh**](https://github.com/ashawe/Shell-it-with-ease/blob/master/6.SearchViaTerminal.sh)
+[**6.SearchViaTerminal.sh**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/6.SearchViaTerminal.sh)
 <br>
 This tool will help you to automate the menial task of opening your browser for doing a search on the web, simply pass your query in quotes as an argument and get the results. Extension of [Ashawe's Search Via Terminal](https://github.com/ashawe/searchViaTerminal)
 <br>
