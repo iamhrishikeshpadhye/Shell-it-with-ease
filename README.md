@@ -34,9 +34,9 @@ This script is GUI form of 'whois' utility in Linux.
 Checks if integer in argument one is a prime number or not.
 <br>
 
-[**6.Googleit.sh**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/6.Googleit.sh)
+[**6.SearchViaTerminal.sh**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/6.SearchViaTerminal.sh)
 <br>
-This tool will help you to automate the menial task of opening your browser for doing a Google search, simply pass your query in quotes as an argument and get the results.
+This tool will help you to automate the menial task of opening your browser for doing a search on the web, simply pass your query in quotes as an argument and get the results. Extension of [Ashawe's Search Via Terminal](https://github.com/ashawe/searchViaTerminal)
 <br>
 
 [**7.newtab.sh**](https://github.com/Hrishikesh-Padhye/Shell-it-with-ease/blob/master/7.newtab.sh)
@@ -59,12 +59,18 @@ Get Github search results in your browser right from your terminal!
 This tool will generate random string as a password of length provided as argument.
 <br>
 
-### Author
+### Authors
 
  **Hrishikesh Padhye**
 
 * Twitter: [@Hrishi_says_so](https://twitter.com/Hrishi_says_so)
 * Github: [iamhrishikeshpadhye](https://github.com/iamhrishikeshpadhye)
+
+
+ **Harsh Saglani**
+
+* Twitter: [@hsaglani](https://twitter.com/hsaglani)
+* Github: [ashawe](https://github.com/ashawe)
 
 #### Contributing
 
