@@ -1,0 +1,29 @@
+#!/bin/bash
+
+TIMESTAMP=$(date +%R.%S-%B-%d)
+
+FILE=/root/Hrishikesh/lockdown/count
+if [ -f "$FILE" ]; then
+    :
+else
+    echo "1">count
+fi
+
+cd /root/Hrishikesh/lockdown/
+
+counter=$(cat count)
+counter=$(($counter + 1))
+echo "$counter">count
+if [[ $counter == 3 ]]
+then
+        echo "0">count
+        ffplay -nodisp -autoexit -loop 10 alert.mp3 >/dev/null 2>&1 &
+	shutdown -h +3 2&>1 > /dev/null
+fi
+
+streamer -t 6 -r 1 -s 640x480 -o cap00.jpeg > /dev/null
+
+cp cap05.jpeg /root/Pictures/lockdown/$TIMESTAMP.jpg
+rm cap*
+
+exit 0  #important - has to exit with status 0
