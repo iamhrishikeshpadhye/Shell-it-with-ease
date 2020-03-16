@@ -2,14 +2,14 @@
 
 TIMESTAMP=$(date +%R.%S-%B-%d)
 
-FILE=/root/Hrishikesh/lockdown/count
+cd /root/Hrishikesh/lockdown/ #set the directory as per your choice
+
+FILE=/root/Hrishikesh/lockdown/count 
 if [ -f "$FILE" ]; then
     :
 else
     echo "1">count
 fi
-
-cd /root/Hrishikesh/lockdown/
 
 counter=$(cat count)
 counter=$(($counter + 1))
@@ -17,13 +17,13 @@ echo "$counter">count
 if [[ $counter == 3 ]]
 then
         echo "0">count
-        ffplay -nodisp -autoexit -loop 10 alert.mp3 >/dev/null 2>&1 &
-	shutdown -h +3 2&>1 > /dev/null
+        ffplay -nodisp -autoexit -loop 10 alert.mp3 >/dev/null 2>&1 &n #replace 10 with your loop count.
+	shutdown -h +3 2&>1 > /dev/null #replace '3' with duration of your choice.
 fi
 
-streamer -t 6 -r 1 -s 640x480 -o cap00.jpeg > /dev/null
+streamer -t 6 -r 1 -s 640x480 -o cap00.jpeg > /dev/null #capture shots for 6 seconds as webcam takes time to kick in.
 
-cp cap05.jpeg /root/Pictures/lockdown/$TIMESTAMP.jpg
+cp cap05.jpeg /root/Pictures/lockdown/$TIMESTAMP.jpg #storage directory of images, can be replaced
 rm cap*
 
 exit 0  #important - has to exit with status 0
