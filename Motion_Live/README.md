@@ -61,7 +61,11 @@ pkg install openssh
 ```
 ssh <user>@<IP>
 ```
+![SSH login](https://github.com/iamhrishikeshpadhye/Shell-it-with-ease/blob/master/Motion_Live/Screenshots/Screenshot%20from%20clideo.com.png)
 <b>Step 4 :</b> Install and configure motion as explained in the previous part of this guide.<br>
+![Edit motion.conf](https://github.com/iamhrishikeshpadhye/Shell-it-with-ease/blob/master/Motion_Live/Screenshots/Screenshot%20from%20clideo.com%20-%201.png)
 <b>Step 5 :</b> View it in your browser<br>
 Open your browser and type ```http://192.168.43.143:9009/seemenow.cgi``` in the URL bar.<br>
 Complete the authentication process and there you go!!!<br>
+![Authentication](https://github.com/iamhrishikeshpadhye/Shell-it-with-ease/blob/master/Motion_Live/Screenshots/Screenshot%20from%20clideo.com%20-%202.png)
+![Stream](https://github.com/iamhrishikeshpadhye/Shell-it-with-ease/blob/master/Motion_Live/Screenshots/Screenshot%20from%20clideo.com%20-%203.png)
