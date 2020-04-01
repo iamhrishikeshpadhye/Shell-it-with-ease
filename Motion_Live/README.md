@@ -49,9 +49,9 @@ As we have setup an authentication for secure access to our streaming, you shall
 Enter the credentials and there you go!!!<br>
 <br>
 
-## From your Android phone:
+## From your Smartphone:
 In this technique, we will be using a 'SSH Client' to remote login to our Linux system and then configure the steps accordingly.<br>
-<b>Step 1 :</b> [Install Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN)<br>
+<b>Step 1 :</b> [Install Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN) for Android or [Install Termius](https://apps.apple.com/gr/app/termius-ssh-client/id549039908) for iPhone<br>
 There are a lot of SSH-CLient applications and Linux emulators for Android phones but I would recommend Termux as it has a lot of features and a great community support.You may use any other application of your choice.<br>
 <b>Step 2 :</b> Install ```OpenSSH```<br>
 ```
